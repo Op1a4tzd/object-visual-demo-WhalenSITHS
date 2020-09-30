@@ -1,3 +1,21 @@
+const DOMSelectors = {
+  displayContainer: document.querySelector("Pizza Slice"),
+};
+const DOMSelectors = {
+  displayContainer: document.querySelector("Salad"),
+};
+const DOMSelectors = {
+  displayContainer: document.querySelector("Soup"),
+};
+const DOMSelectors = {
+  displayContainer: document.querySelector("Grilled Cheese"),
+};
+const DOMSelectors = {
+  displayContainer: document.querySelector("Roast Chicken"),
+};
+
+
+console.log(name);
 const menu = [
   {
     name: "Pizza Slice",
@@ -64,3 +82,8 @@ const menu = [
     inStock: true,
   },
 ];
+
+const init = function(){
+
+};
+init();
